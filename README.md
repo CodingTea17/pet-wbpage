@@ -1,12 +1,12 @@
-# _{Joe Bob The Headless Chicken Website}_
+# _Joe Bob The Headless Chicken Website_
 
-#### _{This webpage dives into the exciting life of Joe Bob.}, {7/31/2017}_
+#### _This webpage dives into the exciting life of Joe Bob., 7/31/2017_
 
-#### By _**{Dawson Mortenson, Aaron Rohrbacher}**_
+#### By _**Dawson Mortenson, Aaron Rohrbacher**_
 
 ## Description
 
-_{This site describes the end of Joe Bob's life, and explores his unfortunate life decisions.}_
+_This site describes the end of Joe Bob's life, and explores his unfortunate life decisions._
 
 ## Setup/Installation Requirements
 
@@ -15,14 +15,14 @@ _{This site describes the end of Joe Bob's life, and explores his unfortunate li
 
 ## Support and contact details
 
-_e-mail:joebob@headlesschicken.com_
+_e-mail: joebob@headlesschicken.com_
 
 ## Technologies Used
 
-_{HTML}_
+_HTML_
 
 ### License
 
-*{This software is licensed under the MIT license}*
+*This software is licensed under the MIT license*
 
-Copyright (c) 2017 **_{Dawson-Rohrbacher Enterprises}_**
+Copyright (c) 2017 **_Dawson-Rohrbacher Enterprises_**
