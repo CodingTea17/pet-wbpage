@@ -1,0 +1,19 @@
+.page-theme {
+  background-color: #35373a;
+  color:#f4f5f7;
+}
+
+ .highlight2 {
+   background-color: skyblue;
+   border: 2px;
+   border-style: solid;
+   border-color: white;
+   color: black;
+ }
+ 
+ .highlight {
+   background-color: skyblue;
+   border: 2px;
+   border-style: solid;
+   border-color: darkblue;
+ }
